@@ -4,6 +4,6 @@ console.log(
     CuteColors.simplify(
         "flat"
         // Use only half of the colors
-      , 0.2
+      , 0.9
     )
 )
