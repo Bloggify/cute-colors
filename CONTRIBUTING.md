@@ -61,6 +61,6 @@ Thanks! :sweat_smile:
 
 
 
-[1]: https://github.com/IonicaBizau/cute-colors/issues
+[1]: https://github.com/Bloggify/cute-colors/issues
 
 [2]: https://github.com/IonicaBizau/code-style
