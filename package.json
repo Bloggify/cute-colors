@@ -12,14 +12,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/IonicaBizau/cute-colors.git"
+    "url": "git+https://github.com/Bloggify/cute-colors.git"
   },
-  "author": "Ionică Bizău <bizauionica@gmail.com> (https://ionicabizau.net)",
+  "author": "Bloggify <support@bloggify.org> (https://bloggify.org)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/IonicaBizau/cute-colors/issues"
+    "url": "https://github.com/Bloggify/cute-colors/issues"
   },
-  "homepage": "https://github.com/IonicaBizau/cute-colors#readme",
+  "homepage": "https://github.com/Bloggify/cute-colors#readme",
   "files": [
     "bin/",
     "app/",
