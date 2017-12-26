@@ -1,6 +1,6 @@
 {
   "name": "cute-colors",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Collections of nice color palettes.",
   "main": "lib/index.js",
   "directories": {
